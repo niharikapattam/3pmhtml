@@ -1,10 +1,10 @@
 h1{
-    /* color:orange; */
+     color:orange; 
     /* color:rgb(110,59,99);
     color:#80b780; */
      /* background:linear gradient(blue,brown); */
     /* background:linear gradient(#ff0000,rgb(238, 255, 0)); */
-    color:brown;
+/*     color:brown; */
      background:radial-gradient(pink,skyblue,pink,skyblue,pink,skyblue);
      height:100vh;
     background-image:url("https://www.colchesterzoologicalsociety.com/wp-content/uploads/2024/09/Tiger-600x380.jpg");
